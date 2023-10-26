@@ -132,11 +132,13 @@ Kelas     : TI.22.A.1
 
 # Pilihan menggunakan checkBox dengan perhitungan otomatis
 
-![lab5 awal27](https://github.com/nadyakhorun/Lab5_PemrogramanWeb/assets/115801823/6b26190c-7a2a-422f-8976-15525aeae2b1)
+![lab5 awal27](https://github.com/nadyakhorun/Lab5_PemrogramanWeb/assets/115801823/a079a560-5e47-4d30-84bc-030f8bb61f45)
 
 Kemudian lakukan run pada browser
 
-![lab5 awal28](https://github.com/nadyakhorun/Lab5_PemrogramanWeb/assets/115801823/545a99bc-8ec6-452e-8a92-4d56d4aca00a)
+![lab5 awal28](https://github.com/nadyakhorun/Lab5_PemrogramanWeb/assets/115801823/1cc30ecd-2a3e-4bc6-b2b2-f960015072b1)
+
+![lab5 awal29](https://github.com/nadyakhorun/Lab5_PemrogramanWeb/assets/115801823/bd99f47f-338e-4c03-97e8-244217b1b58c)
 
 # Melakukan validasi Dokumen HTML
 
